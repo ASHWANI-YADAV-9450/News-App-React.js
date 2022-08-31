@@ -1,0 +1,6 @@
+.background{
+    background-color:rgb(42, 129, 235);
+}
+.mybtn:hover{
+    background-color: green;
+}
